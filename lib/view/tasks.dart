@@ -318,7 +318,7 @@ class _TaskViewState extends State<TaskView> with SingleTickerProviderStateMixin
                             mainAxisAlignment: MainAxisAlignment.end,
                             children: [
                               Padding(
-                                padding: EdgeInsets.symmetric(horizontal: 12.01),
+                                padding: EdgeInsets.symmetric(horizontal: 12.0),
                                 child: TextField(
                                     focusNode: _focusNode,
                                     controller: TextEditingController()..text = "",
