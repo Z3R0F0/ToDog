@@ -1,16 +1,11 @@
-# untitled7
+# ToDog
 
-A new Flutter project.
+ToDog это приложение по типу "список дел"
 
-## Getting Started
+## Функционал:
 
-This project is a starting point for a Flutter application.
+Создание задач, имеющих название, описание и чек-лист.
 
-A few resources to get you started if this is your first Flutter project:
+Все данные задачи можно изменять уже после создания
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Задачи идут в список на главной вьюшке приложения
